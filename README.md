@@ -23,6 +23,7 @@
 
 ## Screenshot of Load Test Strategy
 
+![image](https://github.com/RajaulIslam/Random-User-API-Performance-Test/assets/171759757/d57b94a9-d7ea-4f3e-958b-28ccb538531b)
 
 
 ## Screenshot of Stress Test Strategy
