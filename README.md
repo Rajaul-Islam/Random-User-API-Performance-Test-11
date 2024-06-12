@@ -38,6 +38,7 @@ Submission:
 
 ## Screenshot of Jmeter HTML Report
 
+![image](https://github.com/RajaulIslam/Random-User-API-Performance-Test/assets/171759757/c2e97eaf-329f-4af2-9bc9-7a81c5cda593)
 
 
 
