@@ -2,7 +2,7 @@
 
 ## Scenario:
 Find out the actual TPS for if 120000 users can give load for 12 hours
-Perform load test on this URL: https://random-data-api.com/api/v2/users
+Perform load test on this URL: https://demoqa.com/BookStore/v1/Booksgit 
 1. You have to find out if the expected TPS (Transaction Per/Second) meet the above requirement.
 Breakdown the expected TPS in excel sheet and find out the actual TPS (10)
 
