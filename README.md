@@ -34,6 +34,7 @@ Submission:
 
 
 ## Screenshot of Stress Test Strategy
+![image](https://github.com/RajaulIslam/Random-User-API-Performance-Test/assets/171759757/c985cc0a-0af7-4793-accd-504906d3953d)
 
 
 ## Screenshot of Jmeter HTML Report
