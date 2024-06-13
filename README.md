@@ -30,7 +30,7 @@ Submission:
 
 ## Screenshot of Load Test Strategy
 
-![image](https://github.com/RajaulIslam/Random-User-API-Performance-Test/assets/171759757/d57b94a9-d7ea-4f3e-958b-28ccb538531b)
+![image](https://github.com/RajaulIslam/Random-User-API-Performance-Test/assets/171759757/ae5c5a96-42a2-487b-9305-3e9120f8bdd3)
 
 
 ## Screenshot of Stress Test Strategy
